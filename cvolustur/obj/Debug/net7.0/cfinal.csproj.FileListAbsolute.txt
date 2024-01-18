@@ -1,0 +1,15 @@
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.csproj.AssemblyReference.cache
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.AssemblyInfoInputs.cache
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.AssemblyInfo.cs
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.csproj.CoreCompileInputs.cache
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/bin/Debug/net7.0/cfinal
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/bin/Debug/net7.0/cfinal.deps.json
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/bin/Debug/net7.0/cfinal.runtimeconfig.json
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/bin/Debug/net7.0/cfinal.dll
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/bin/Debug/net7.0/cfinal.pdb
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.dll
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/refint/cfinal.dll
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.pdb
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/cfinal.genruntimeconfig.cache
+/Users/fermanaliarpacik/Desktop/final/cfinal/cfinal/obj/Debug/net7.0/ref/cfinal.dll
